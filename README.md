@@ -1,3 +1,5 @@
+![Screenshot 2023-10-23 153340](https://github.com/adrocic/notion-clone/assets/33170556/a36f0016-ae41-4154-a8c8-1faedfbed562)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
